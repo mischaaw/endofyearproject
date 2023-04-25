@@ -99,11 +99,11 @@ public class Game extends JPanel implements Runnable, KeyListener{
 		newhampshire = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		newjersey = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		newmexico = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
-		newyork = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
+		newyork = new Button(350,450, (int)(300/2), (int)(250/2), new ImageIcon("fruitbasket.png"));
 		northcarolina = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		northdakota = new Button(525,150, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		ohio = new Button(525,240, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
-		oklahoma = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
+		oklahoma = new Button(590,475, (int)(300/2), (int)(100/2), new ImageIcon("fruitbasket.png"));
 		oregon = new Button(50,200, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		pennsylvania = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		rhodeisland = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
