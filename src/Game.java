@@ -93,7 +93,7 @@ public class Game extends JPanel implements Runnable, KeyListener{
 		minnesota = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		mississippi = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		missouri = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
-		montana = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
+		montana = new Button(300,150, (int)(400/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		nebraska = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		nevada = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		newhampshire = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
@@ -104,7 +104,7 @@ public class Game extends JPanel implements Runnable, KeyListener{
 		northdakota = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		ohio = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		oklahoma = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
-		oregon = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
+		oregon = new Button(50,200, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		pennsylvania = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		rhodeisland = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		southcarolina = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
@@ -114,7 +114,7 @@ public class Game extends JPanel implements Runnable, KeyListener{
 		utah = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		vermont = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		virginia = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
-		washington = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
+		washington = new Button(100,100, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		westvirginia = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		wisconsin = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
 		wyoming = new Button(550,550, (int)(300/2), (int)(150/2), new ImageIcon("fruitbasket.png"));
