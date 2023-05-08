@@ -8,7 +8,7 @@ import javax.swing.*;
 public class Player
 {
 	public Player() {
-		System.out.println("you called the Player constructor!!");
+		//System.out.println("you called the Player constructor!!");
 	}
 	
 	public void playmusic(String musicfile) {
