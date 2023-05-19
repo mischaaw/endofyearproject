@@ -57,4 +57,3 @@ public class Button {
 		img = i;
 	}
 }
-
